@@ -1,3 +1,10 @@
+@import './styles/buttons.css';
+
 body{
-    background-color: red;
+    background-color: #26B4BC;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.player video {
+    inline-size: 100%;
 }
